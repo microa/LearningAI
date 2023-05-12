@@ -12,7 +12,8 @@ UCB Machine Learning Systems (Spring 2022)
 https://ucbrise.github.io/cs294-ai-sys-sp22/
 
 
-###　Explain Principle 原理解释
+### Explain Principle 原理解释
 Colah's blog
 https://colah.github.io/
+<br>
 
