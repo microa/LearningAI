@@ -4,7 +4,7 @@ AI learning source<br>
 我不生产教程，我只是教程的搬运工<br>
 
 
-### Courses
+### Courses 教程
 UCB Machine Learning Systems (Spring 2019)
 https://ucbrise.github.io/cs294-ai-sys-sp19/
 <br>
